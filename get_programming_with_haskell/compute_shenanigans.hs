@@ -101,4 +101,5 @@ sfOffice name = if lastName < "L"
         nameText = (fst name) ++ " " ++ lastName
 
 
+ifEvenFactory :: Integral t => (t -> t) -> t -> t
 ifEvenFactory f = \x -> ifEven f x
