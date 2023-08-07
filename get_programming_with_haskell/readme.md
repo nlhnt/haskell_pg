@@ -1,0 +1,1 @@
+Get Programming With Haskell, Kurt will
